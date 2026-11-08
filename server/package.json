@@ -1,0 +1,1 @@
+{"name":"talentlens-api","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node --watch index.js","start":"node index.js","test":"node --test"},"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.7","express":"^5.1.0","express-session":"^1.18.1","mammoth":"^1.8.0","multer":"^2.0.2","pdf-parse":"^1.1.1","pg":"^8.13.1"}}
